@@ -7,9 +7,12 @@ Engineering Club](https://github.com/DeakinSEC) on the 26th of March 2021 (T1).
   https://bit.ly/DSECJoin
 
 - A video recording of the workshop is available at:<br>
-  https://youtu.be/wTGMxcA2Q1k.
+  https://youtu.be/wTGMxcA2Q1k
+
+- The presentation is available at:<br>
+	[Presentation.pdf](./Presentation.pdf)
 
 - This repository is also pushed to:<br>
-  https://gitee.com/deakinsec/T12021-Fundamentals-Of-Git.
+  https://gitee.com/deakinsec/T12021-Fundamentals-Of-Git
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on how to setup this project locally.
